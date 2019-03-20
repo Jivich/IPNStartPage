@@ -1,11 +1,10 @@
 # IPN Start Page
 
+This is a start page for your desktop browser, developed with JavaScript.
+Inspired by [Simpson Start Page.](https://github.com/vill1960/SimpsonStartPage)
 **This is a [Live version.](https://vill1960.github.io/IPNStartPage/MyStartPage/index.html)**
 
 ![Imgur](https://i.imgur.com/6VeJEfi.png)
-
-This is a start page for your desktop browser, developed with JavaScript.
-Inspired by [Simpson Start Page.](https://github.com/vill1960/SimpsonStartPage)
 
 ## Add a link.
 ![Imgur](https://i.imgur.com/JNDblSw.png)
