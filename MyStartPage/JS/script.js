@@ -92,7 +92,7 @@ StartPage.prototype.imgRandom = function() {
   var arrayIMG = ["A", "B", "C", "D", "E", "F"];
   var nRandom = Math.round(Math.random() * (3 - 1) + 1);
   /*Choose a view*/
-  //var nRandom = 3;
+  //var nRandom = ;
 
   if (nRandom == 1) {
     document.getElementsByTagName("BODY")[0].style.background = "#6e2747";
@@ -180,9 +180,7 @@ StartPage.prototype.consolaInformacion = function(){
 
     return (egg, rabbit, version, author, email);
 }
-
 /*---------------------------------------------------------------------------*/
-
 /*Main function.*/
 function main(){
   /*Instance*/
